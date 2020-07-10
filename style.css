@@ -1,0 +1,88 @@
+
+@font-face {
+    font-family: "Montserrat";
+    src: url(Montserrat-Thin);
+}
+
+body {
+    width:883px;
+    height: 374px;
+}
+
+header {
+    width: 883px;
+    height: 374px;
+}
+header img {
+    width: 100%;
+    height: 100%;
+}
+
+#modelo1 {
+    font-family: Montserrat;
+    font-size: 21px;
+    color: black;
+    font-weight: bold;
+    text-align: right;   
+    padding: 10px;  
+}
+
+#modelo2 {
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+    color: black;
+    padding-top: 34px;
+}
+
+#modelo3 {
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: 500;
+    padding-top: 34px;
+}
+
+ul {
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 21px 1.61;   
+}
+
+ol {
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 21px 1.61;
+}
+
+li{
+    margin-bottom: 10px;
+    line-height: 1,61;
+
+}
+.letras h1 {
+    font-weight: black;
+    font-size: 89px;
+    color: #FFB300;
+    line-height: 79px;  
+}
+
+.letras h2 {
+    font-weight: black;
+    font-size: 21px;
+    color: #FFB300; 
+}
+
+.videoWrapper {
+width: 883px;
+height:497px;
+}
+
+#modelo4 {
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: black;
+    color: #0037b3;
+}
