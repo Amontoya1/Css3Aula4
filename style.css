@@ -43,6 +43,10 @@ header img {
     padding-top: 34px;
 }
 
+.hr {
+    width: 5px;
+    color: #999999;
+}
 ul {
     font-family: Montserrat;
     font-size: 21px;
@@ -63,14 +67,14 @@ li{
 
 }
 .letras h1 {
-    font-weight: black;
+    font-weight: 900;
     font-size: 89px;
     color: #FFB300;
     line-height: 79px;  
 }
 
 .letras h2 {
-    font-weight: black;
+    font-weight: 900;
     font-size: 21px;
     color: #FFB300; 
 }
@@ -83,6 +87,6 @@ height:497px;
 #modelo4 {
     font-family: Montserrat;
     font-size: 21px;
-    font-weight: black;
+    font-weight:900;
     color: #0037b3;
 }
